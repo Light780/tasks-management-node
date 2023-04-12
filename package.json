@@ -1,0 +1,17 @@
+{
+  "name": "tasks-management",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "author": "Bruno Ramos <70899175+Light780@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^9.1.5",
+    "uuid": "^9.0.0",
+    "yargs": "^17.7.1"
+  },
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
